@@ -102,6 +102,9 @@ button {
 }
 /* Header section*/
 .header-list {
+  padding-top: 32px;
+  padding-bottom: 32px;
+  display: block;
   display: flex;
   list-style: none;
   padding-left: 0;
